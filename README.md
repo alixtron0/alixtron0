@@ -11,10 +11,9 @@ As a developer, I enjoy working on a wide range of projects, from web developmen
 **Connect with Me**
 ------------------
 
-* [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-* [Twitter](https://twitter.com/your-twitter-handle)
-* [Instagram](https://www.instagram.com/your-instagram-handle)
-* [Personal Website](https://your-website.com)
+
+* [Instagram](https://www.instagram.com/Ali_Farasat0)
+* [Personal Website]()
 
 **Skills**
 ----------
@@ -22,7 +21,7 @@ As a developer, I enjoy working on a wide range of projects, from web developmen
 * Programming languages: Python, JavaScript, HTML/CSS, etc.
 * Frameworks: React, Node.js, Django, etc.
 * Databases: MySQL, MongoDB, PostgreSQL, etc.
-* Operating Systems: Windows, Linux, macOS
+* Operating Systems: Windows, Linux, 
 
 **Badges**
 ----------
@@ -36,4 +35,4 @@ As a developer, I enjoy working on a wide range of projects, from web developmen
 
 [![Ali Farasat's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)](https://github.com/your-github-username)
 
-Feel free to customize this template to fit your own style and preferences!
+
